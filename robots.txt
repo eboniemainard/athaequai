@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xaithoenge.rferrer.me/sitemap.xml
